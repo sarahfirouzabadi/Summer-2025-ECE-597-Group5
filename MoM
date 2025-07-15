@@ -1,0 +1,17 @@
+Minutes of Meeting: 05/25/25
+--> Discussing what needs to be done
+--> Brainstroming ideas of how to reach the completeion goal
+--> Deciding on what data set is to be used
+--> Assigning responsibilities
+
+*********************************************
+
+Minutes of Meeting: 05/07/25
+ Discussion topic- How to filter the data/ features required to train the model.
+-> Include links/URLs to filter spam messages.
+-> Filteration on the basis of unrecognisable domain.
+
+Pilot Model
+->Simple Model for now, we are trying to add more parameter
+-> Sarah/ Noor/Chita- Working on data cleaning, pre-processing and getting the accuracy.
+-> Eve and Mamta- Performing R&D, collabaration and gathering content for the presentation
